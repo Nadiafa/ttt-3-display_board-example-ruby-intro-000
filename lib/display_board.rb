@@ -1,5 +1,5 @@
 # Define a method display_board that prints a 3x3 Tic Tac Toe Board
-def display_broard
+def display_board
   cell = "   "
   cell_divider = "|"
   cell_row = cell+cell_divider+cell+cell_divider+cell
@@ -11,4 +11,4 @@ def display_broard
   puts cell_row
 end
 
-display_broard
+display_board
