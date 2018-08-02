@@ -5,5 +5,6 @@ def display_broard
   puts cell_row
   puts dash_row
   puts cell_row
-  
+  puts dash_row
+  puts cell_row
 end
