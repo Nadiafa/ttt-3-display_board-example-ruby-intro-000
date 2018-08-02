@@ -2,7 +2,7 @@
 def display_broard
   cell = "   "
   cell_divider = "|"
-  cell_row = cell+cell_divider+cell
+  cell_row = cell+cell_divider+cell+cell_divider+cell
   dash_row = "-----------"
   puts cell_row
   puts dash_row
