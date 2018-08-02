@@ -8,3 +8,5 @@ def display_broard
   puts dash_row
   puts cell_row
 end
+
+display_broard
